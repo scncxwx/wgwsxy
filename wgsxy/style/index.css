@@ -1,0 +1,9 @@
+﻿/*
+*微光微网站【支持PC/WAP】css
+*2018年5月12日22:37:23
+*xwx-add
+*/
+.post { padding: 35px; background: #fff; margin-bottom: 35px; position: relative; overflow: hidden; }
+.post .featured-media { margin-top: 30px; overflow: hidden; cursor: pointer; }
+.index-02-01 img { cursor: pointer; }
+.post .featured-media img { width: 100%; }
